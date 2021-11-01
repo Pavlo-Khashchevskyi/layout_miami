@@ -1,9 +1,0 @@
-.gellery {
-  &__place {
-    margin-bottom: 32px;
-
-    @include onDeskopt {
-      margin-bottom: 40px;
-    }
-  }
-}
